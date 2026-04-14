@@ -6,3 +6,5 @@ Zadanie 1: https://colab.research.google.com/github/Teapot-t/kurs-Uczenie-Maszyn
 Zadanie 3: https://github.com/Teapot-t/kurs-Uczenie-Maszynowe/blob/main/Zadanie3.ipynb
 
 zadanie 4: https://github.com/Teapot-t/kurs-Uczenie-Maszynowe/blob/main/zadanie_4.ipynb
+
+zadanie 6: https://github.com/Teapot-t/kurs-Uczenie-Maszynowe/blob/main/zadanie_6.ipynb
