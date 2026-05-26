@@ -10,3 +10,5 @@ zadanie 4: https://github.com/Teapot-t/kurs-Uczenie-Maszynowe/blob/main/zadanie_
 zadanie 6: https://github.com/Teapot-t/kurs-Uczenie-Maszynowe/blob/main/zadanie_6.ipynb
 
 zadanie 7: https://github.com/Teapot-t/kurs-Uczenie-Maszynowe/blob/main/zadanie_7.ipynb
+
+zadanie 11: https://github.com/Teapot-t/kurs-Uczenie-Maszynowe/blob/main/Zadanie_11.ipynb
