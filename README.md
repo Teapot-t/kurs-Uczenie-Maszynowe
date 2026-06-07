@@ -14,4 +14,5 @@ zadanie 7: https://github.com/Teapot-t/kurs-Uczenie-Maszynowe/blob/main/zadanie_
 zadanie 11: https://github.com/Teapot-t/kurs-Uczenie-Maszynowe/blob/main/Zadanie_11.ipynb
 
 zadanie 12/projekt zaliczeniowy: https://github.com/Teapot-t/kurs-Uczenie-Maszynowe/blob/main/ML2026_projekt_zaliczeniowy.ipynb
+
 udało mi się osiągnąć RMSE < 3. Uczy się w miarę stabilnie ale jest pewna wariancja, na wszelki wypadek wytrenowane wagi końcowego modelu są też zapisane w pliku - HydraCoastealBest248.pth
